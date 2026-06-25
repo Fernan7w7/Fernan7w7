@@ -36,16 +36,14 @@ Finishing up a research project on automated smart contract vulnerability detect
 
 ---
 
-## Philosophy
-
 I don't really believe in "mastering" tools — just getting slightly less wrong over time.
-I prefer understanding fundamentals over memorizing frameworks, even if that means moving slower at first.
+I prefer understanding fundamentals over memorizing frameworks.
 If something can be simplified, automated, or broken into smaller parts, I'll probably try to do it.
 I also have a mild tendency to turn everything into a project.
 
 ---
 
-## Current mindset
+## Mindset?
 
 Build things. Break things. Fix them. Repeat until it stops being scary.
 
